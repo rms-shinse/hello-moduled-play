@@ -1,0 +1,2 @@
+# An example controller showing a sample home page
+GET     /                           jp.co.rms.controllers.HomeController.index
