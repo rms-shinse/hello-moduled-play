@@ -76,7 +76,7 @@ local.properties
 .eclipse
 /lib/
 /logs/
-/modules
+# /modules
 /project/project
 /project/target
 /target
